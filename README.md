@@ -1,4 +1,6 @@
 ## Developer
+![Fwunny gifs](./sashley.gif)
+<br/>
 this is a website made by `Ashley` better known as `SxS`.
 
 
