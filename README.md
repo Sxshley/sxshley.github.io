@@ -1,7 +1,8 @@
 ## Developer
 ![Fwunny gifs](./sashley.gif)
 <br/>
-this is a website made by `Ashley` better known as `SxS`.
+this is a website made by `Ash` better known as `SxS`.
+**NOT** the one in the gif.
 
 
 
